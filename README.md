@@ -1,4 +1,4 @@
-# Mac Tags to Dropbox
+# Photo Tags
 
 這個程式可以讀取 MacOS 資料夾中的檔案標籤，並將這些標籤同步到 Dropbox 對應的檔案中。
 
@@ -19,7 +19,7 @@
 
 1. 下載專案：
 ```bash
-git clone https://github.com/yourusername/mac-tags-to-dropbox.git
+git clone https://github.com/spotwizard/PhotoTags.git
 ```
 
 2. 安裝依賴套件：
