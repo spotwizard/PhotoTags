@@ -17,7 +17,7 @@
 
 ## 安裝步驟
 
-1. 克隆此專案：
+1. 下載專案：
 ```bash
 git clone https://github.com/yourusername/mac-tags-to-dropbox.git
 ```
