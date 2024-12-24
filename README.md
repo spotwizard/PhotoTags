@@ -41,3 +41,4 @@ python src/main.py --folder "您的資料夾路徑"
 
 - 需要預先在 Dropbox 開發者控制台建立應用程式並取得 API Token
 - 確保要同步的資料夾在本地端和 Dropbox 都存在
+- 目前 Dropbox 的標籤 API 僅支援英文，所以需要先將標籤轉換成英文
